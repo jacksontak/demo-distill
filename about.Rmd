@@ -1,0 +1,28 @@
+---
+title: "About Me & About This Blog"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## About Jackson Tak 
+
+Hello, welcome to my blog! My name is Jackson Tak, a senior at Macalester College majoring in Economics and Applied Math & Stats. 
+
+## Education
+
+- B.A. in Economics & Applied Math & Statistics @ Macalester College, 2021 
+
+## Work Experience
+
+- Strategy & Corporate Development Analyst @ Sezzle, Spring 2021
+
+- Investment Banking Fall Analyst @ Evolve Capital Partners, Fall 2020
+
+- Investment Banking Summer Analyst @ Cherry Tree & Associates, Summer 2020 
+
+- Equity Research Summer Analyst @ VIP Research & Management, Summer 2019
+
+- Senior Team Leader @ Republic of Korea Special Duty Team, 2017 - 2019 
+

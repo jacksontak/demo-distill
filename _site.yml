@@ -1,0 +1,16 @@
+name: "jackson-tak"
+title: "The Tak Blog"
+description: |
+  Jackson Tak
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - icon: fa fa-linkedin
+      href: https://www.linkedin.com/in/jwtak/
+      
+      
+output: distill::distill_article

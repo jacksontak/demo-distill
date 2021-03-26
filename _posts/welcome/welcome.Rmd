@@ -1,0 +1,28 @@
+---
+title: "Jackson Tak's Personal Blog"
+description: |
+  This is Jackson Tak's Personal Blog. This website contains all of Jackson Tak's course work for STAT 494: Advanced Data Science in R.  
+   
+author:
+  - name: Jackson Tak 
+    url: https://www.linkedin.com/in/jwtak/
+date: 03-21-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+```{r}
+library(distill)
+create_post("Assignment 1")
+```
+
+

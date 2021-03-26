@@ -1,0 +1,23 @@
+---
+title: "Assignment 1"
+description: |
+  A short reflection “Building a Career in Data Science, Chapter 4: Building a Portfolio”.
+author:
+  - name: Jackson Tak
+date: 03-21-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+The data science portfolio is most useful for people who are applying to their data science jobs because it helps employers to understand your skill sets. It also helps you to learn new skills and become a part of a new community. A good project and portfolio should be easily understood by others. 
+
+After listening to this chapter of the podcast, I learned that it is important to keep a record of projects that we have worked on because it allows you to showcase your work to others who might be interested in learning. It also helps you stay excited about learning interesting and different concepts and makes challenging enjoyable. 
+
+
+
+
